@@ -1,0 +1,12 @@
+{
+	"id": 31643816,
+	"epoch_second": 1652490144,
+	"problem_id": "math_and_algorithm_h",
+	"contest_id": "math-and-algorithm",
+	"user_id": "tomonio",
+	"language": "PyPy3 (7.3.0)",
+	"point": 1000,
+	"length": 136,
+	"result": "AC",
+	"execution_time": 64
+}
