@@ -2,7 +2,7 @@ name: Procon-gardener
 
 on:
   schedule:
-  - cron: "49 13 * * *"
+  - cron: "03 14 * * *"
   push:
 
 jobs:
@@ -28,9 +28,9 @@ jobs:
         jq '.atcoder.repository_path|="."' config.json > tmp
         mv tmp config.json
         #ここを書き換える
-        jq '.atcoder.user_id|="tomonio"' config.json > tmp
+        jq '.atcoder.user_id|=${{secrets.ATCODER_ID}}' config.json > tmp
         mv tmp config.json
-        jq '.atcoder.user_email|="ayumu100811@gmail.com"' config.json > tmp
+        jq '.atcoder.user_email|=${{secrets.EMAIL_ADDRESS}}' config.json > tmp
         mv tmp config.json
 
     - name: Archive
