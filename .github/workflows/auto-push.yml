@@ -2,7 +2,7 @@ name: Procon-gardener
 
 on:
   schedule:
-  - cron: "06 14 * * *"
+  - cron: "50 14 * * *"
   push:
 
 jobs:
