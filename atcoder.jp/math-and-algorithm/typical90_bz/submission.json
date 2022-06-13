@@ -1,0 +1,12 @@
+{
+	"id": 32449250,
+	"epoch_second": 1655098672,
+	"problem_id": "typical90_bz",
+	"contest_id": "math-and-algorithm",
+	"user_id": "tomonio",
+	"language": "PyPy3 (7.3.0)",
+	"point": 2,
+	"length": 130,
+	"result": "AC",
+	"execution_time": 213
+}
