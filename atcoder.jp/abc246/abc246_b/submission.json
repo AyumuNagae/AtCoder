@@ -1,0 +1,12 @@
+{
+	"id": 32656867,
+	"epoch_second": 1655888256,
+	"problem_id": "abc246_b",
+	"contest_id": "abc246",
+	"user_id": "tomonio",
+	"language": "Go (1.14.1)",
+	"point": 200,
+	"length": 154,
+	"result": "AC",
+	"execution_time": 8
+}
