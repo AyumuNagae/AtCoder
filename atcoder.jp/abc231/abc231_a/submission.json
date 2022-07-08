@@ -1,0 +1,12 @@
+{
+	"id": 33050408,
+	"epoch_second": 1657255263,
+	"problem_id": "abc231_a",
+	"contest_id": "abc231",
+	"user_id": "tomonio",
+	"language": "TypeScript (3.8)",
+	"point": 100,
+	"length": 145,
+	"result": "AC",
+	"execution_time": 55
+}
