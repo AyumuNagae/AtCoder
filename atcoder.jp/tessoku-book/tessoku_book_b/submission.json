@@ -1,0 +1,12 @@
+{
+	"id": 35602927,
+	"epoch_second": 1665564807,
+	"problem_id": "tessoku_book_b",
+	"contest_id": "tessoku-book",
+	"user_id": "tomonio",
+	"language": "Go (1.14.1)",
+	"point": 1000,
+	"length": 228,
+	"result": "AC",
+	"execution_time": 6
+}
